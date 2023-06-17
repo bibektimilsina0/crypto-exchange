@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/bikkibro/crypto-exchange/static/css/main.16eda0f1.css",
+    "main.js": "/bikkibro/crypto-exchange/static/js/main.dc031ca8.js",
+    "static/js/787.fec58e52.chunk.js": "/bikkibro/crypto-exchange/static/js/787.fec58e52.chunk.js",
+    "static/media/logo1.jpg": "/bikkibro/crypto-exchange/static/media/logo1.7c1ef4e7d6272623f14d.jpg",
+    "static/media/bitcoin.jpg": "/bikkibro/crypto-exchange/static/media/bitcoin.c1f5d3ba7e204fce8a5e.jpg",
+    "static/media/market.jpg": "/bikkibro/crypto-exchange/static/media/market.4af2c21cd31b200d81b1.jpg",
+    "static/media/currency.png": "/bikkibro/crypto-exchange/static/media/currency.ad0002257ffc7b1ad9f9.png",
+    "static/media/blockchain.jpg": "/bikkibro/crypto-exchange/static/media/blockchain.93bb5550780ca91b0ddb.jpg",
+    "static/media/portfolio-section.webp": "/bikkibro/crypto-exchange/static/media/portfolio-section.7ecee4449077b535bce5.webp",
+    "static/media/trading.jpg": "/bikkibro/crypto-exchange/static/media/trading.c20718c94b946d69dbda.jpg",
+    "index.html": "/bikkibro/crypto-exchange/index.html",
+    "main.16eda0f1.css.map": "/bikkibro/crypto-exchange/static/css/main.16eda0f1.css.map",
+    "main.dc031ca8.js.map": "/bikkibro/crypto-exchange/static/js/main.dc031ca8.js.map",
+    "787.fec58e52.chunk.js.map": "/bikkibro/crypto-exchange/static/js/787.fec58e52.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.16eda0f1.css",
+    "static/js/main.dc031ca8.js"
+  ]
+}
